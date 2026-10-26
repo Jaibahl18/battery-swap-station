@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGETS "battery_swap_station")
+set(__QT_DEPLOY_TARGET_battery_swap_station_FILE /Users/jaibahl/battery_swap_station/build/Desktop_arm_darwin_generic_mach_o_64bit_Debug/battery_swap_station.app/Contents/MacOS/battery_swap_station)
+set(__QT_DEPLOY_TARGET_battery_swap_station_TYPE EXECUTABLE)
